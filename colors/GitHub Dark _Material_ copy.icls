@@ -4,7 +4,11 @@
     <property name="created">2023-03-04T13:26:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.3.2.0.0</property>
+<<<<<<< HEAD
     <property name="modified">2023-03-04T20:47:14</property>
+=======
+    <property name="modified">2023-03-04T20:49:21</property>
+>>>>>>> 704a837 (IU-2022.3.2 <geeen@DESKTOP-855VOT0 Update ide.general.xml, GitHub Dark _Material_ copy.icls)
     <property name="originalScheme">_@user_GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
