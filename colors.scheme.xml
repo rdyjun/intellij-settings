@@ -1,9 +1,13 @@
 <application>
   <component name="EditorColorsManagerImpl">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <global_color_scheme name="Arc Light" />
 =======
     <global_color_scheme name="Dark" />
 >>>>>>> 21c1214 (IU-2022.3.2 <geeen@DESKTOP-855VOT0 Update laf.xml, ui.lnf.xml, ide.general.xml, editor-font.xml, colors.scheme.xml, GitHub Dark _Material_ copy.icls	Create NewUIInfoService.xml	Delete jdk.table.xml, updates.xml)
+=======
+    <global_color_scheme name="_@user_GitHub Dark (Material)" />
+>>>>>>> b2cc73e (IU-2022.3.2 <geeen@DESKTOP-855VOT0 Update laf.xml, colors.scheme.xml, _@user_GitHub Dark _Material_.icls)
   </component>
 </application>

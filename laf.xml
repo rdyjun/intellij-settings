@@ -1,9 +1,13 @@
 <application>
   <component name="LafManager" autodetect="false">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="8ef4359e-d00f-4f7e-a489-85e0e24c2198" />
 =======
     <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="ExperimentalDark" />
 >>>>>>> 21c1214 (IU-2022.3.2 <geeen@DESKTOP-855VOT0 Update laf.xml, ui.lnf.xml, ide.general.xml, editor-font.xml, colors.scheme.xml, GitHub Dark _Material_ copy.icls	Create NewUIInfoService.xml	Delete jdk.table.xml, updates.xml)
+=======
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="GitHub Dark Compact Contrast" />
+>>>>>>> b2cc73e (IU-2022.3.2 <geeen@DESKTOP-855VOT0 Update laf.xml, colors.scheme.xml, _@user_GitHub Dark _Material_.icls)
   </component>
 </application>
