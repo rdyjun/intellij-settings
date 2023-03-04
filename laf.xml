@@ -2,6 +2,7 @@
   <component name="LafManager" autodetect="false">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="8ef4359e-d00f-4f7e-a489-85e0e24c2198" />
 =======
     <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="ExperimentalDark" />
@@ -9,5 +10,8 @@
 =======
     <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="GitHub Dark Compact Contrast" />
 >>>>>>> b2cc73e (IU-2022.3.2 <geeen@DESKTOP-855VOT0 Update laf.xml, colors.scheme.xml, _@user_GitHub Dark _Material_.icls)
+=======
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="Arc Dark" />
+>>>>>>> 0f6c7c6 (IU-2022.3.2 <geeen@DESKTOP-855VOT0 Update laf.xml	Create shared-indexes.xml	Delete docker.xml)
   </component>
 </application>
