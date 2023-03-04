@@ -1,5 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="animatedScrolling" value="false" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_TABS_TOOLTIPS" value="false" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
 </application>
