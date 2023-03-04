@@ -4,7 +4,7 @@
     <property name="created">2023-03-04T13:26:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.3.2.0.0</property>
-    <property name="modified">2023-03-04T19:54:07</property>
+    <property name="modified">2023-03-04T20:23:08</property>
     <property name="originalScheme">_@user_GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -137,12 +137,13 @@
     <option name="NOTIFICATION_BACKGROUND" value="32f62" />
     <option name="PROMOTION_PANE" value="24292e" />
     <option name="QUESTION_HINT" value="5264c" />
+    <option name="READONLY_BACKGROUND" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="2f363d" />
     <option name="RECENT_LOCATIONS_SELECTION" value="24292e" />
     <option name="RIGHT_MARGIN_COLOR" value="2f363d" />
     <option name="SELECTED_INDENT_GUIDE" value="444d56" />
     <option name="SELECTED_TEARLINE_COLOR" value="22374b" />
-    <option name="SELECTION_BACKGROUND" value="22374b" />
+    <option name="SELECTION_BACKGROUND" value="323c46" />
     <option name="SEPARATOR_ABOVE_COLOR" value="444d56" />
     <option name="SEPARATOR_BELOW_COLOR" value="444d56" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="444d56" />
