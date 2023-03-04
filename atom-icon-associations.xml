@@ -1,0 +1,54 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFileAssociations">
+      <SelectedAssociations>
+        <option name="ownAssociations">
+          <map>
+            <entry key="Affinity Designer">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.(afdesign|afphoto|afpub)$" />
+                  <option name="pattern" value=".*\.(afdesign|afphoto|afpub)$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="Affinity Designer" />
+                  <option name="icon" value="/icons/files/affinity.svg" />
+                  <option name="iconColor" value="FF8A65" />
+                  <option name="folderColor" />
+                  <option name="folderIconColor" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="CUDA Header">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.cuh$" />
+                  <option name="pattern" value=".*\.cuh$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="CUDA Header" />
+                  <option name="icon" value="/icons/files/cuh.svg" />
+                  <option name="iconColor" value="ff8a65" />
+                  <option name="folderColor" />
+                  <option name="folderIconColor" />
+                </RegexAssociation>
+              </value>
+            </entry>
+            <entry key="DeviceTree">
+              <value>
+                <RegexAssociation>
+                  <option name="matcher" value=".*\.dtsi?$" />
+                  <option name="pattern" value=".*\.dtsi?$" />
+                  <option name="touched" value="true" />
+                  <option name="name" value="DeviceTree" />
+                  <option name="icon" value="/icons/files/devicetree.svg" />
+                  <option name="iconColor" value="0034ff" />
+                  <option name="folderColor" />
+                  <option name="folderIconColor" />
+                </RegexAssociation>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>
