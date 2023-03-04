@@ -2,6 +2,7 @@
   <component name="EditorColorsManagerImpl">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <global_color_scheme name="Arc Light" />
 =======
     <global_color_scheme name="Dark" />
@@ -9,5 +10,8 @@
 =======
     <global_color_scheme name="_@user_GitHub Dark (Material)" />
 >>>>>>> b2cc73e (IU-2022.3.2 <geeen@DESKTOP-855VOT0 Update laf.xml, colors.scheme.xml, _@user_GitHub Dark _Material_.icls)
+=======
+    <global_color_scheme name="GitHub Dark (Material) copy" />
+>>>>>>> f9293be (IU-2022.3.2 <geeen@DESKTOP-855VOT0 Update laf.xml, ide.general.xml, colors.scheme.xml)
   </component>
 </application>
