@@ -3,20 +3,8 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.intellij.laf.enable.animation" value="true" />
-=======
     <entry key="ide.balloon.shadow.size" value="15" />
     <entry key="ide.experimental.ui" value="true" />
     <entry key="debugger.new.tool.window.layout" value="true" />
->>>>>>> 21c1214 (IU-2022.3.2 <geeen@DESKTOP-855VOT0 Update laf.xml, ui.lnf.xml, ide.general.xml, editor-font.xml, colors.scheme.xml, GitHub Dark _Material_ copy.icls	Create NewUIInfoService.xml	Delete jdk.table.xml, updates.xml)
-=======
-    <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.experimental.ui" value="true" />
-    <entry key="debugger.new.tool.window.layout" value="true" />
-    <entry key="ide.intellij.laf.enable.animation" value="true" />
->>>>>>> f9293be (IU-2022.3.2 <geeen@DESKTOP-855VOT0 Update laf.xml, ide.general.xml, colors.scheme.xml)
   </component>
 </application>
