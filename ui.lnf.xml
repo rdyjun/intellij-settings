@@ -2,7 +2,6 @@
   <component name="UISettings">
     <option name="animatedScrolling" value="false" />
     <option name="compactTreeIndents" value="true" />
-    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SEPARATE_MAIN_MENU" value="true" />
     <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />
