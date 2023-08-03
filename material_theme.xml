@@ -1,7 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="387bff" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="74a0f1" />
+    <option name="selectedTheme" value="MOONLIGHT" />
     <option name="userId" value="-783cb73b:189b9e4c926:-8000" />
     <option name="version" value="8.9.1" />
   </component>

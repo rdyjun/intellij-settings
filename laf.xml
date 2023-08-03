@@ -1,5 +1,12 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="ExperimentalDark" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="MOONLIGHT" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
+      <laf-to-scheme laf="Moonlight (Material)" scheme="_@user_Moonlight (Material)" />
+      <laf-to-scheme laf="Night Owl (Material)" scheme="_@user_Night Owl (Material)" />
+      <laf-to-scheme laf="Solarized Dark (Material)" scheme="_@user_Solarized Dark (Material)" />
+      <laf-to-scheme laf="Xcode Dark" scheme="_@user_Xcode Dark" />
+    </lafs-to-previous-schemes>
   </component>
 </application>
